@@ -1,1 +1,1 @@
-# stockapp
+# Nivesh Trading Software
