@@ -1,4 +1,3 @@
-import axios from "axios";
 import { connect,ipAddress,publicAddress,placeorder,fetchOrderStatus } from "./placeorder.js";
 import dotenv from 'dotenv'
 dotenv.config()
